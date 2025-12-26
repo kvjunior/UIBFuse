@@ -32,9 +32,6 @@ Cross-modal learning for digital asset markets demands effective integration of 
 
 ## 🏗️ Architecture
 
-<p align="center">
-  <img src="Figures/fig_motivation.png" alt="Motivation" width="400"/>
-</p>
 
 UIBFuse addresses three fundamental limitations:
 
@@ -66,8 +63,6 @@ UIBFuse/
 ├── train.py                # Training pipeline
 ├── evaluate.py             # Evaluation and metrics
 ├── utils.py                # Utility functions
-├── References              # Bibliography
-├── Results.pdf             # Detailed experimental results
 └── README.md               # This file
 ```
 
